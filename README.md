@@ -1,4 +1,4 @@
-# 🥋 Vinayak Bharadwaz
+# 👨‍💻 Vinayak Bharadwaz
 
  `Student (Photographer,Karateka,Python Programmer)` 
 
