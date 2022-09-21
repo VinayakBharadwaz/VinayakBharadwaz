@@ -7,11 +7,9 @@
 I'm a student based in Guwahati, Assam, India who is definitely a great admirer of technology in general along with being a rookie Python programmer. There's a creative side in me as well which pushes me forward to create memories using my camera & also makes me aware about how small we are...
 Psss.... I'm also an international-level Karate player (just bragging a lot 😝)
 
-#
+---
 
 ### 🛠️ Languages & Tools
-
-<br>
 
 <img align="left" alt="Java" width="30px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >
 <img align="left" alt="Java" width="30px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
@@ -24,7 +22,7 @@ Psss.... I'm also an international-level Karate player (just bragging a lot 😝
 <img align="left" alt="Java" width="30px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
 <img align="left" alt="Java" width="30px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
 
-</br>
+<br />
 
 #
 
