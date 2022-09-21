@@ -1,6 +1,6 @@
 # 🥋 Vinayak Bharadwaz
 
-** `Student (Photographer,Karateka,Python Programmer)`**
+ `Student (Photographer,Karateka,Python Programmer)` 
 
 #
 
@@ -10,6 +10,7 @@ Psss.... I'm also an international-level Karate player (just bragging a lot 😝
 #
 
 ### 🛠️ Languages & Tools
+
 <img align="left" alt="Java" width="30px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >
 <img align="left" alt="Java" width="30px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 <img align="left" alt="Java" width="30px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
