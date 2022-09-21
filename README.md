@@ -11,6 +11,8 @@ Psss.... I'm also an international-level Karate player (just bragging a lot 😝
 
 ### 🛠️ Languages & Tools
 
+<br>
+
 <img align="left" alt="Java" width="30px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >
 <img align="left" alt="Java" width="30px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 <img align="left" alt="Java" width="30px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
@@ -21,6 +23,8 @@ Psss.... I'm also an international-level Karate player (just bragging a lot 😝
 <img align="left" alt="Java" width="30px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 <img align="left" alt="Java" width="30px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
 <img align="left" alt="Java" width="30px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+
+</br>
 
 #
 
