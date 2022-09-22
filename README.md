@@ -10,7 +10,7 @@ Psss.... I'm also an international-level Karate player (just bragging a lot 😝
 
 ---
 
-### 🧰 Languages and Tools
+### 🪛 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -30,6 +30,12 @@ Psss.... I'm also an international-level Karate player (just bragging a lot 😝
 
 ![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayakbharadwaz&show_icons=true&theme=tokyonight) 
 
+### 🌐 Connect
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="vinayakbharadwaz" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/vinayakbharadwaz?trk=profile-badge">Vinayak Bharadwaz</a></div>
+             
+#
 
 <details>
     <summary><h3>👨‍💻 Vinayak's Coding Journey</h3></summary>
