@@ -30,7 +30,9 @@ Psss.... I'm also an international-level Karate player (just bragging a lot 😝
 ### 📊 Stats
 
 ![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayakbharadwaz&show_icons=true&theme=tokyonight)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinayakbharadwaz&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakbharadwaz&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <details>
     <summary><h3>👨‍💻 Vinayak's Coding Journey</h3></summary>
