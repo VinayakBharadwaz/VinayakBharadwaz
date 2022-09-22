@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Menlo+&size=22&pause=1000&color=25F700&width=435&lines=%3E%3E%3E+Welcome+to+my+GitHub!!!)](https://git.io/typing-svg)
 
-# 👨‍💻 Vinayak Bharadwaz
+# 🦁 Vinayak Bharadwaz
 
  `Student (Photographer,Karateka,Python Programmer)` 
 
