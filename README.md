@@ -2,7 +2,7 @@
 
 # 🦁 Vinayak Bharadwaz
 
- ## **`Student (Photographer,Karateka,Python Programmer, Illustrator)`** 
+ ## **`Student (Photographer, Karateka, Python Programmer, Illustrator)`** 
 #
 
 I'm a student based in Guwahati, Assam, India who is definitely a great admirer of technology in general along with being a rookie Python programmer. There's a creative side in me as well which pushes me forward to create memories using my camera & also makes me aware about how small we are...
