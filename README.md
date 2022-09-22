@@ -2,7 +2,7 @@
 
 # 🦁 Vinayak Bharadwaz
 
- ##**`Student (Photographer,Karateka,Python Programmer)`** 
+ ## **`Student (Photographer,Karateka,Python Programmer)`** 
 
 #
 
