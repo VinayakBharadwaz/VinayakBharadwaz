@@ -32,7 +32,7 @@ Psss.... I'm also an international-level Karate player (just bragging a lot 😝
 
 ### 🌐 Connect
 
-<img src="{https://in.linkedin.com/in/vinayakbharadwaz?trk=profile-badge}" />
+![image]({https://in.linkedin.com/in/vinayakbharadwaz?trk=profile-badge})
              
 #
 
