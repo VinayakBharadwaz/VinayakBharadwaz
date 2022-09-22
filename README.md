@@ -32,8 +32,7 @@ Psss.... I'm also an international-level Karate player (just bragging a lot 😝
 
 ### 🌐 Connect
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="vinayakbharadwaz" data-      version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/vinayakbharadwaz?trk=profile-badge">Vinayak Bharadwaz</a></div>
+<img src="{https://in.linkedin.com/in/vinayakbharadwaz?trk=profile-badge}" />
              
 #
 
