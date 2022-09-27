@@ -31,8 +31,17 @@ Psss.... I'm also an international-level Karate player (just bragging a lot 😝
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
 <br />
+
+#
+
+### 🌐 Connect
+
+<a href="github.com/VinayakBharadwaz/"> <img src="https://visualpharm.com/assets/720/Github-595b40b65ba036ed117d442f.svg" width="45" height="45"></a>
+<a href="linkedin.com/in/vinayakbharadwaz/"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40"></a>
 
 #
 
@@ -46,5 +55,7 @@ Psss.... I'm also an international-level Karate player (just bragging a lot 😝
     <summary><h3>👨‍💻 Vinayak's Coding Journey</h3></summary>
     As a programmer, my journey is quite at it's beginning. But, the love for technology is always been there in me. I always mumbled & jumbled with technology from my childhood & computers did attracted me a lot. Due to this attraction, I started my programming in 11th standard. Also, a huge credit goes to my Computer Science teacher Mr. Bhargab Kakati who absolutely fueled my passion of programming to another level...
 </details>
+
+### <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakbharadwaz&label=Profile%20views&color=0e75b6&style=" width="120" height="30" alt="vinayakbharadwaz" /> </p>
     
     
