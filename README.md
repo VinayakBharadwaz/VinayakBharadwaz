@@ -9,6 +9,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Menlo+&size=22&pause=1000&color=25F700&width=435&lines=%3E%3E%3E+Welcome+to+my+GitHub!!!)](https://git.io/typing-svg)
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 # 🦁 Vinayak Bharadwaz
 
  ## **`Student (Photographer, Karateka, Python Programmer, Illustrator)`** 
@@ -50,6 +52,10 @@ Psss.... I'm also an international-level Karate player (just bragging a lot 😝
 ### 🌐 Connect
 
 <a href="linkedin.com/in/vinayakbharadwaz/"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40"></a>
+<a href="https://www.instagram.com/vnayak.jpeg/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/512px-Instagram_icon.png" width="40" height="40"></a>
+
+
+
 
 #
 
