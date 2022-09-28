@@ -49,7 +49,6 @@ Psss.... I'm also an international-level Karate player (just bragging a lot 😝
 
 ### 🌐 Connect
 
-<a href="github.com/VinayakBharadwaz/"> <img src="https://visualpharm.com/assets/720/Github-595b40b65ba036ed117d442f.svg" width="45" height="45"></a>
 <a href="linkedin.com/in/vinayakbharadwaz/"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40"></a>
 
 #
