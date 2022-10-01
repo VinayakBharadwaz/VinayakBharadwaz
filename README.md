@@ -70,6 +70,6 @@ Psss.... I'm also an international-level Karate player (just bragging a lot 😝
     As a programmer, my journey is quite at it's beginning. But, the love for technology is always been there in me. I always mumbled & jumbled with technology from my childhood & computers did attracted me a lot. Due to this attraction, I started my programming in 11th standard. Also, a huge credit goes to my Computer Science teacher Mr. Bhargab Kakati who absolutely fueled my passion of programming to another level...
 </details>
 
-### <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakbharadwaz&label=Profile%20views&color=0e75b6&style=" width="150" height="32" alt="vinayakbharadwaz" /> </p> <p align="left"> <img src="https://img.shields.io/github/followers/dirambora" width="150" height="35" alt="vinayakbharadwaz" /> </p> <p align="left"> <img src="https://img.shields.io/github/stars/dirambora?label=Profile%20Stars&logo=Profile%20stars&logoColor=g" width="150" height="35" alt="vinayakbharadwaz" /> </p> 
+### <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakbharadwaz&label=Profile%20views&color=0e75b6&style=" width="150" height="32" alt="vinayakbharadwaz" /> </p> <p align="left"> <img src="https://img.shields.io/github/followers/vinayakbharadwaz" width="150" height="35" alt="vinayakbharadwaz" /> </p> <p align="left"> <img src="https://img.shields.io/github/stars/vinayakbharadwaz?label=Profile%20Stars&logo=Profile%20stars&logoColor=g" width="150" height="35" alt="vinayakbharadwaz" /> </p> 
     
     
