@@ -5,13 +5,15 @@
 ░╚████╔╝░██║╚████║██╔══██║░░╚██╔╝░░██╔══██║██╔═██╗░
 ░░╚██╔╝░░██║░╚███║██║░░██║░░░██║░░░██║░░██║██║░╚██╗
 ░░░╚═╝░░░╚═╝░░╚══╝╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝                                                                                                                                                                                                                   
-
-
+ 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Menlo+&size=22&pause=1000&color=25F700&width=435&lines=%3E%3E%3E+Welcome+to+my+GitHub!!!)](https://git.io/typing-svg)
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 # 🦁 Vinayak Bharadwaz <img alt="Hello" width="35" src="https://user-images.githubusercontent.com/27498814/109383743-80eae680-78f9-11eb-8dbd-7ae5a7559249.gif" />
+
+![GitHub followers](https://img.shields.io/github/followers/VinayakBharadwaz?label=Follow&style=social)
+<object>
 
  ## **`Student (Photographer, Karateka, Python Programmer, Illustrator)`** 
 #
