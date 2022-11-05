@@ -12,9 +12,11 @@
 
 # 🦁 Vinayak Bharadwaz <img alt="Hello" width="35" src="https://user-images.githubusercontent.com/27498814/109383743-80eae680-78f9-11eb-8dbd-7ae5a7559249.gif" />
 
- ## **`Student (Photographer, Karateka, Python Programmer, Illustrator)`** 
 ![GitHub followers](https://img.shields.io/github/followers/VinayakBharadwaz?label=Follow&style=social)
 <object>
+
+## **`Student (Photographer, Karateka, Python Programmer, Illustrator)`** 
+
 #
 <img align="left" alt="Java" style="padding-right:10px;" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 <img align="left" alt="Java" style="padding-right:10px;" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
