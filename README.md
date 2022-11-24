@@ -10,7 +10,7 @@
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-# 🦁 Vinayak Bharadwaz <img alt="Hello" width="35" src="https://user-images.githubusercontent.com/27498814/109383743-80eae680-78f9-11eb-8dbd-7ae5a7559249.gif" />
+# 🦁 Vinayak Bharadwaz 
 
 ## **`Student (Photographer, Karateka, Python Programmer, Illustrator)`** 
 
