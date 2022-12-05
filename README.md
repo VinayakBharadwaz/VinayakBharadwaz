@@ -60,7 +60,7 @@ Psss.... I'm also an international-level Karate player (just bragging a lot 😝
 <a href="https://www.linkedin.com/in/vinayakbharadwaz/"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40"></a>
 <a href="https://www.instagram.com/vnayak.jpeg/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/512px-Instagram_icon.png" width="40" height="40"></a>
 <a href="https://www.facebook.com/vinayak.bharadwaz.3/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40"></a>
-<a href="https://open.spotify.com/user/jjz8gzl0o8ln4d7g3bey3t0ke?si=ruVgl_qlS8S_AMo1Jmx_8Q&utm_source=copy-link/"> <img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-download-logo-30.png" width="40" height="40"></a>
+<a href="https://open.spotify.com/user/jjz8gzl0o8ln4d7g3bey3t0ke?si=ruVgl_qlS8S_AMo1Jmx_8Q&utm_source=copy-link/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Spotify_App_Logo.svg/2048px-Spotify_App_Logo.svg.png" width="40" height="40"></a>
 
 
 
