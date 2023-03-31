@@ -78,11 +78,13 @@ Psss.... I'm also an international-level Karate player (just bragging a lot 😝
 * Introduction to HTML5 
 * Introduction to CSS3
 * Introduction to JavaScript
+
 #### Year 2021:
 
 * Introduction to Python3 
 * Tkinter Module in Python3
 * SQLite in Python3
+* Advanced Styling with Responsive Design using HTML5, CSS3, JavaScript
 
 #### Year 2022:
 
@@ -92,4 +94,9 @@ Psss.... I'm also an international-level Karate player (just bragging a lot 😝
 * Basic Prototyping in Figma
 * File Handling in Python3
 * Introduction to Data-Structures (Stacks)
+
+#### Year 2023:
+ 
+ * Automating Infrastructure on Google Cloud with Terraform
+ * Terraform Init: An infrastructure challenge
 
