@@ -103,4 +103,6 @@ Psss.... I'm also an international-level Karate player (just bragging a lot 😝
  
  * Automating Infrastructure on Google Cloud with Terraform
  * Terraform Init: An infrastructure challenge
+ * Crash Course on Python
+ * Foundations of User Experience (UX) Design
 
