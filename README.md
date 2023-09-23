@@ -11,7 +11,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 # 🦁 Vinayak Bharadwaz 
-## **`Student | Programmer | Photographer | Illustrator | Karateka`** 
+## **`Student | Programmer | Photographer | Designer | Blogger`** 
 
 <img align="left" alt="Java" style="padding-right:10px;" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 <img align="left" alt="Java" style="padding-right:10px;" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
